@@ -1,9 +1,9 @@
-# MARVEL QUIZ - App del Universo Cinematográfico de Marvel
+# NBA QUIZ - App del mundo de baloncesto estadounidense 
 
-Aplicación móvil interactiva que permite explorar la cronología del MCU y poner a prueba tus conocimientos sobre el universo Marvel.
+Aplicación móvil interactiva que permite explorar la cronología del Baloncesto y poner a prueba tus conocimientos sobre la NBA
 
 ## Problemática a Resolver
-"Los fanáticos del MCU carecen de una herramienta digital que les permita consultar fácilmente la cronología completa de películas y, al mismo tiempo, poner a prueba sus conocimientos sobre el universo Marvel de manera interactiva y entretenida." - Samuel Lara Grandas
+"Los fanáticos del baloncesto carecen de una herramienta digital que les permita consultar fácilmente sobre los mejores jugadores de la pelota naranja y, al mismo tiempo, poner a prueba sus conocimientos sobre la mejor liga de basket de manera interactiva y entretenida." - Daniel laguna 
 
 - **Contexto del problema:**
 Los fanáticos del Universo Cinematográfico de Marvel (MCU) enfrentan dos dificultades principales:
