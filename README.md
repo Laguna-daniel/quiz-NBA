@@ -1,32 +1,37 @@
-# NBA QUIZ - App del mundo de baloncesto estadounidense 
+# NBA QUIZ - App del mundo de baloncesto estadounidense
 
-Aplicación móvil interactiva que permite explorar la cronología del Baloncesto y poner a prueba tus conocimientos sobre la NBA
+Aplicación móvil interactiva que permite explorar la cronología del Baloncesto y poner a prueba tus conocimientos sobre la NBA.
 
 ## Problemática a Resolver
-"Los fanáticos del baloncesto carecen de una herramienta digital que les permita consultar fácilmente sobre los mejores jugadores de la pelota naranja y, al mismo tiempo, poner a prueba sus conocimientos sobre la mejor liga de basket de manera interactiva y entretenida." - Daniel laguna 
+
+"Los fanáticos del baloncesto carecen de una herramienta digital que les permita consultar fácilmente sobre los mejores jugadores de la pelota naranja y, al mismo tiempo, poner a prueba sus conocimientos sobre la mejor liga de basket de manera interactiva y entretenida." - Daniel Laguna
 
 - **Contexto del problema:**
-Los fanáticos del Universo Cinematográfico de Marvel (MCU) enfrentan dos dificultades principales:
-- 1. **Desconocimiento de la cronología:** Con más de 30 películas y series, es difícil saber el orden correcto para verlas (orden de estreno vs. orden cronológico).
-- 2. **Falta de conocimiento profundo:** Muchos fans creen saberlo todo sobre el MCU, pero no tienen forma de medir o poner a prueba sus conocimientos de manera interactiva.
 
-## Socución:
-Una aplicación móvil que resuelve la desinformación sobre la cronología del MCU y permite a los fans medir y mejorar sus conocimientos a través de un quiz interactivo.
+Los fanáticos de la NBA enfrentan dos dificultades principales:
+
+1. **Desconocimiento de la historia del baloncesto:** Con más de 75 temporadas, miles de jugadores, campeonatos y momentos históricos, es difícil conocer el orden cronológico de los acontecimientos más importantes de la NBA.
+
+2. **Falta de conocimiento profundo:** Muchos aficionados creen saberlo todo sobre la NBA, pero no tienen una forma de medir o poner a prueba sus conocimientos de manera interactiva.
+
+## Solución
+
+Una aplicación móvil que reúne la cronología e historia de la NBA y permite a los aficionados medir y mejorar sus conocimientos a través de un quiz interactivo.
 
 ## Características
 
-- **Cronología MCU**: Lista completa de películas del Universo Cinematográfico de Marvel ordenadas cronológicamente
-- **Quiz Interactivo**: Pon a prueba tus conocimientos con preguntas sobre el MCU
-- **Puntaje en tiempo real**: Visualiza tu progreso mientras respondes
-- **Diseño temático**: Interfaz inspirada en el estilo visual de Marvel
-- **Navegación fluida**: Transiciones suaves entre pantallas
+- **Cronología de la NBA:** Recorrido por los momentos más importantes de la historia de la NBA organizados cronológicamente.
+- **Quiz Interactivo:** Pon a prueba tus conocimientos con preguntas sobre la NBA.
+- **Puntaje en tiempo real:** Visualiza tu progreso mientras respondes.
+- **Diseño temático:** Interfaz inspirada en el estilo visual de la NBA.
+- **Navegación fluida:** Transiciones suaves entre pantallas.
 
 ## Tecnologías Utilizadas
 
-- **React Native** - Framework para desarrollo móvil
-- **Expo** - Herramientas para desarrollo y despliegue
-- **React Navigation** - Sistema de navegación entre pantallas
-- **React Hooks** - Manejo de estado y ciclo de vida (useState, useEffect)
+- **React Native** - Framework para desarrollo móvil.
+- **Expo** - Herramientas para desarrollo y despliegue.
+- **React Navigation** - Sistema de navegación entre pantallas.
+- **React Hooks** - Manejo de estado y ciclo de vida (`useState`, `useEffect`).
 
 ## Requisitos Previos
 
@@ -37,17 +42,20 @@ Una aplicación móvil que resuelve la desinformación sobre la cronología del 
 ## Instalación y Ejecución
 
 ### 1. Clonar el repositorio
+
 ```bash
-git clone https://github.com/samularagran1408-bot/quiz-marvel.git
-cd quiz-marvel
+git clone https://github.com/samularagran1408-bot/nba-quiz.git
+cd nba-quiz
 ```
 
 ### 2. Instalar dependencias
+
 ```bash
 npm install
 ```
 
 ### 3. Ejecutar el proyecto
+
 ```bash
 npm start
 ```
@@ -64,8 +72,8 @@ Para hacer esto, sigue los siguientes pasos:
 
 1. Forkea el repositorio.
 2. Crea una nueva rama con un nombre descriptivo de tus cambios.
-3. Realiza los cambios necesarios.                                                            
-4. Realiza un pull request a la rama principal del repositorio.
+3. Realiza los cambios necesarios.
+4. Realiza un Pull Request a la rama principal del repositorio.
 5. Espera a que se revisen y se aprueben tus cambios.
 
 Recuerda que siempre es bueno revisar el código antes de realizar cambios. Esto ayuda a evitar conflictos y mejorar la calidad del código.
